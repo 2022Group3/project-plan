@@ -1,19 +1,30 @@
-plan:
-1.read and write to csv file:
+organize data plan:
+
+28/6/2022 week1
+1.read and write to csv file:   E&L started...
   * columns:
      id ,image name ,batch label ,stringLabel, numLabel,dataset,image source size, train/validation/test
 2.display image:
   *single image(id)
   *some images(string label)
-3.add images to the data from cifar100 :
+3.add images to the data from cifar100:   S&N started...
    *download+ extract....
-   * change format
+   * change label format
+   * match cfar100 size and etc. to cfar10 
    *csv file
 4.add random images
    *csv file
 5.train and test
 6.unit test 
 7.statistic
+
+remeber git!
+
+What we did today:
+ opened google account+git account include repositorys.
+ open / install pycharm.
+ downloaded the dataset.
+ 
    
 
 
