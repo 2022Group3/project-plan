@@ -25,8 +25,13 @@ What we did today:
  open / install pycharm.
  downloaded the dataset.
  
-  questions:
-  how to create validation in cifar10
-
+questions:
+  how to create train test validation in cifar10
+  add array of image scv
+  our picture- how to save csv
+  
+  
+  
+  
 
 
