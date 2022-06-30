@@ -25,7 +25,8 @@ What we did today:
  open / install pycharm.
  downloaded the dataset.
  
-   
+  questions:
+  how to create validation in cifar10
 
 
 
