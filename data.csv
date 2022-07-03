@@ -1,4 +1,4 @@
-image_name,batch_label,label_number,label_name,dataset,tain/validation/test
+image_name,batch_label,label_number,label_name,dataset,train/validation/test
 b'leptodactylus_pentadactylus_s_000004.png',data_batch_1,6,frog,cifar10,train
 b'camion_s_000148.png',data_batch_1,9,truck,cifar10,train
 b'tipper_truck_s_001250.png',data_batch_1,9,truck,cifar10,train
