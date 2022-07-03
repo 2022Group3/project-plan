@@ -30,7 +30,7 @@ questions:
   add array of image scv
   our picture- how to save csv
   
-  
+  what to do with validation??
   
   
 
