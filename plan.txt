@@ -1,13 +1,13 @@
 organize data plan:
 
 28/6/2022 week1
-1.read and write to csv file:   E&L started... finished!!!!!!
+1.read and write to csv file:   E&L started... finished!!!!!!👍🏻
   * columns:
      id ,image name ,batch label ,stringLabel, numLabel,dataset,image source size, train/validation/test
 2.display image:
   *single image(id)
   *some images(string label)
-3.add images to the data from cifar100:   S&N started... finished!!!!!!
+3.add images to the data from cifar100:   S&N started... finished!!!!!!👍🏻
    *download+ extract....
    * change label format
    * match cfar100 size and etc. to cfar10 
