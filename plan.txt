@@ -26,12 +26,9 @@ What we did today:
  downloaded the dataset.
  
 questions:
-  how to create train test validation in cifar10
-  add array of image scv
-  our picture- how to save csv
-  
+  our picture-save in csv?
   what to do with validation??
-  
+  save path to pickle or images? 
   
 
 
