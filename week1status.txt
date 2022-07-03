@@ -1,1 +1,28 @@
-First week status
+First week status:
+
+✔What we have done:
+  *Create csv file for cfar10 and 1 super class from cfar100
+   with cols: (image name, batch label, label number, label name, dataset(from cfar10 or cfar100..., train/validation/test)
+   
+  *A class with a few statistics about the data distribution (size,disribution by train/validation/test, disribution by class...)
+  
+  *A class that displays a single image and samples of each class.
+  
+  *Change format of different images to match our data.
+  
+  
+ ❓questions:
+ 
+ *Should the images be unpickeld and saved as real images on the computer, and in csv save path to those images
+  or leave them as pickels and every time when you access them you send them to a function which displays it and turns it into an image?
+  
+ * Should the path be saved in csv or find it by concating batch label, image name...
+ 
+ *The data was already devided into train and test, but no validations. 
+  Should we devide it again with the validation or use the original division?
+  
+ *We had collected different new images on our own for testing our model.
+  We where debating if to add them to the data csv with labels and all the rest, or leaving them for the end, to see how the model works?
+  
+  
+ 
