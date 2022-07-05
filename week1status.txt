@@ -24,5 +24,10 @@ First week status:
  *We had collected different new images on our own for testing our model.
   We where debating if to add them to the data csv with labels and all the rest, or leaving them for the end, to see how the model works?
   
+  *what to do with the format of the images:
+  to do manipulation for the image to change it to square
+  
+  *should the train,test,validation has to be static and saved in the csv or has to be dinamic and devide it.
+  
   
  
