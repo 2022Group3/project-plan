@@ -30,5 +30,12 @@ questions:
   what to do with validation??
   save path to pickle or images? 
   
+  
+  
+  GUI :pycuti5
+  to get path for path in function
+  col[0]...........
+  
+  
 
 
