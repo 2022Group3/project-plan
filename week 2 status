@@ -2,12 +2,12 @@
 
 Finally, We finished the data part. 
 
-The project contain 6 modules and one main. The modules are:
+The project contains 6 modules and one main. The modules are:
 1. Extract_from_cifar: extract the pictures from cifar10 and cifar100 and store them in a folder.
 2. CreateCSV: create a CSV file with data from cifar10 and cifar100.
 3. Divide: divide the data to train, test and validation, (write it in the CSV file)
 4. Add_our_images: take the pictures from a folder, change the format to 32*32*3, store them with all the data in their labels' folders and add them to the CSV (as test).
-5. Statistic: visualization of the data distribution- amount of samples per class, percentage of train, validation and test, and more.
+5. Statistic: visualization of the data distribution- number of samples per class, percentage of train, validation and test, and more.
 6. Display: display images of a wanted class or samples of each class. 
 
 
