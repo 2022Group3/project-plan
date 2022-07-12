@@ -49,6 +49,16 @@ questions:
   model..........
   
   
+  week 3: 12/7/2022
+  Plan:
+1)	Prepare env for work with network via notebook (google colab) V
+   todo load code from colab to git
+2)	run the model- 200 epoch
+3)	Analyze results of model training
+a.	See convergence graphs
+b.	Analyze results, accuracy, confusion matrix 
+
+  
   
   
 
