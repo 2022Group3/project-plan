@@ -58,6 +58,14 @@ questions:
 a.	See convergence graphs
 b.	Analyze results, accuracy, confusion matrix 
 
+
+
+week 4: 19/7/2022
+plan:
+*gui - crop
+*unitests
+*pressentation
+*change classes
   
   
   
