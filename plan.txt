@@ -76,6 +76,7 @@ powerpoint
 analize probability for out of distribution 
 unit test ,logging
 confusion matrix (recall, precission,f1score).......
+camera
 
   
   
